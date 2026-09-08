@@ -1,0 +1,13 @@
+# macOS 系统文件
+.DS_Store
+
+# 编译产物
+build/
+DerivedData/
+
+# Xcode 用户态（非必须，可保留则注释掉下面这行）
+**/xcuserdata/
+
+# 大体积内容，不入库（如需入库请删掉对应行）
+版本快照/
+V1.0/Stop Working.app/
